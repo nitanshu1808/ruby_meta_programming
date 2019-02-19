@@ -1,1 +1,6 @@
 This Folder contains code for ruby meta programming
+
+Intall test unit as
+
+gem install test-unit
+
