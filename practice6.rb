@@ -6,6 +6,10 @@ end
 
 obj = A.new
 
+# Singleton method goes in the singleton class
+# Singleton class cannot be inherited
+
+
 def obj.hello
   puts "Object Hello"
 end
